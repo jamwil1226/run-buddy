@@ -170,6 +170,7 @@ section {
 
 .section-title {
     font-size: 55px;
+    border-bottom: 3px solid;
     color: #024e76;
     text-align: center;
     margin: 0 auto 35px auto;
